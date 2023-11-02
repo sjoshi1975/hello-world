@@ -1,4 +1,4 @@
-#ShriSwamiSamarth#ShriSwamiSamarthJayJaySwamiSamarth
+#ShriSwamiSamarth
 <Html>  
 <head>   
 <title>  
