@@ -1,6 +1,5 @@
 #ShriSwamiSamarthJayJaySwamiSamarth
-
-#ShriSwamiSamarthJayJaySwamiSamarth
+#Omkar
 <Html>  
 <head>   
 <title>  
